@@ -1,0 +1,79 @@
+body{
+	width: 720px;
+	margin: 0 auto;
+}
+.body-box{
+	width: 720px;
+	height: 1280px;
+	background-image: url("../img/bg.jpg");
+	float: left;
+}
+.nav-box{
+	width: 720px;
+	height: 115px;
+	background-image: url("../img/nav.jpg");
+	float: left;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 30px;
+	font-weight: bold;
+}
+.detail-box{
+	width: 720px;
+	height: 190px;
+	background-image: url("../img/bg-header.jpg");
+	float: left;
+}
+.reward-box{
+	width: 185px;
+	height: 95px;
+	float: left;
+	margin-left: 505px;
+	margin-top: 45px;
+	cursor: pointer;
+}
+.space-box{
+	width: 720px;
+	height: 30px;
+	float: left;
+}
+.card-box{
+	width: 610px;
+	height: 380px;
+	float: left;
+	border-radius: 20px;
+	margin-left: 53px;
+	cursor: pointer;
+}
+.circle-box{
+	width: 155px;
+	height: 155px;
+	float: left;
+	position: absolute;
+	margin-top: -115px;
+	margin-left: 485px;
+	border-radius: 115px;
+	cursor: pointer;
+}
+.btn-box{
+	width: 720px;
+	height: 95px;
+	float: left;
+	cursor: pointer;
+}
+.detail2-box{
+	width: 720px;
+	height: 135px;
+	float: left;
+}
+.space2-box{
+	width: 720px;
+	height: 265px;
+	float: left;
+}
+.menu-box{
+	width: 720px;
+	height: 80px;
+	float: left;
+	cursor: pointer;
+}

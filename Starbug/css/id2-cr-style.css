@@ -1,0 +1,44 @@
+body{
+	width: 720px;
+	margin: 0 auto;
+}
+.body-box{
+	width: 720px;
+	height: 1280px;
+	background-image: url("../img/bg-cr2.jpg");
+	float: left;
+}
+.space-box{
+	width: 150px;
+	height: 70px;
+	float: left;
+	margin-top: 25px;
+	margin-left: 30px;
+	cursor: pointer;
+}
+.space-box-2{
+	width: 120px;
+	height: 70px;
+	float: right;
+	margin-top: -290px;
+	margin-left: 30px;
+	cursor: pointer;
+}
+.box-1{
+	width: 390px;
+	height: 60px;
+	background-color: #FFFFFF;
+	float: left;
+	margin-top: 245px;
+	margin-left: 33px;
+	padding-left: 10px;
+}
+.box-2{
+	width: 247px;
+	height: 60px;
+	background-color: #FFFFFF;
+	float: left;
+	margin-top: 17px;
+	margin-left: 213px;
+	padding-left: 10px;
+}

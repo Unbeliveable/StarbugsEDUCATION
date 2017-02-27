@@ -1,0 +1,19 @@
+body{
+	width: 720px;
+	height: 1280px;
+	margin: 0 auto;
+}
+.body-box{
+	width: 720px;
+	height: 1280px;
+	background-image: url("../img/bg-th.jpg");
+	float: left;
+}
+.space-box{
+	width: 150px;
+	height: 70px;
+	float: left;
+	margin-top: 1205px;
+	margin-left: 150px;
+	cursor: pointer;
+}
